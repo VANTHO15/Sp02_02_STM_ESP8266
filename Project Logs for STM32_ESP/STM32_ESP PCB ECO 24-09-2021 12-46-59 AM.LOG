@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GPIO2 Pin=U1-17
+Added Member To Class: ClassName=STM32_ESP Member=Component JP3 SHOW
+Added Room: Name=STM32_ESP

@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator=LED NGU?N NewDesignator=LED4
+Added Component: Designator=VIT1(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT2(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT3(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT4(VIT)
+Add component. Clean all parameters for all variants
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Added Room: Name=STM32_ESP

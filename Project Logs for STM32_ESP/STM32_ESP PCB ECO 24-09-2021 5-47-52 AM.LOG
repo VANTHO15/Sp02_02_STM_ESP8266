@@ -1,0 +1,43 @@
+Change Component Comment : Designator= Old Comment=MAX32100 New Comment=MAX30100
+Change Component Designator: OldDesignator= NewDesignator=BT1
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator= NewDesignator=P3
+Change Component Designator: OldDesignator= NewDesignator=P4
+Change Component Designator: OldDesignator= NewDesignator=P5
+Change Component Designator: OldDesignator= NewDesignator=P6
+Change Component Designator: OldDesignator= NewDesignator=P7
+Change Component Designator: OldDesignator= NewDesignator=P8
+Change Component Designator: OldDesignator= NewDesignator=U1
+Added Component: Designator=VIT1(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT2(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT3(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT4(VIT)
+Add component. Clean all parameters for all variants
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Added Member To Class: ClassName=STM32_ESP Member=Component IC1 STM32F103C8T6
+Added Member To Class: ClassName=STM32_ESP Member=Component J1 SHOW
+Added Member To Class: ClassName=STM32_ESP Member=Component JP1 N?P CODE ESP
+Added Member To Class: ClassName=STM32_ESP Member=Component JP2 2.54_4P
+Added Member To Class: ClassName=STM32_ESP Member=Component LED1 GREEN
+Added Member To Class: ClassName=STM32_ESP Member=Component LED2 LED RED
+Added Member To Class: ClassName=STM32_ESP Member=Component P1 2P
+Added Member To Class: ClassName=STM32_ESP Member=Component P2 MAX30100
+Added Member To Class: ClassName=STM32_ESP Member=Component P3 OLED
+Added Member To Class: ClassName=STM32_ESP Member=Component P4 SHOW_I2C
+Added Member To Class: ClassName=STM32_ESP Member=Component P5 PIN 9V
+Added Member To Class: ClassName=STM32_ESP Member=Component P6 RESET
+Added Member To Class: ClassName=STM32_ESP Member=Component P7 CONFIG
+Added Member To Class: ClassName=STM32_ESP Member=Component P8 CÔNG T?C
+Added Member To Class: ClassName=STM32_ESP Member=Component SP1 Còi 3-24V
+Added Member To Class: ClassName=STM32_ESP Member=Component U1 ESP_12_E
+Added Room: Name=STM32_ESP

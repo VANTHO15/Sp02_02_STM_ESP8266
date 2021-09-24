@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=MIC1-6
+Added Component: Designator=VIT1(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT2(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT3(VIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VIT4(VIT)
+Add component. Clean all parameters for all variants
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Added Member To Class: ClassName=STM32_ESP Member=Component SP1 Còi 3-24V
+Added Member To Class: ClassName=STM32_ESP Member=Component VIT1 1
+Added Member To Class: ClassName=STM32_ESP Member=Component VIT2 1
+Added Member To Class: ClassName=STM32_ESP Member=Component VIT3 1
+Added Member To Class: ClassName=STM32_ESP Member=Component VIT4 1
+Added Room: Name=STM32_ESP
