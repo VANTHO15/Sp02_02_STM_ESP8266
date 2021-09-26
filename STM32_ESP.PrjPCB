@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1110,6 +1110,13 @@ UpdateCurrentModels=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=TX_SOFTWARE|NetColor=$000083FD
+Net2=NetName=GND|NetColor=$0000BE00
+Net3=NetName=VIN|NetColor=$00FFFF6E
+Net4=NetName=RX_SOFTWARE|NetColor=$00FF6EFF
+Net5=NetName=3V3_ESP|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
